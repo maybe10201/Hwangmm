@@ -1,0 +1,640 @@
+{
+  "version": 1,
+  "id": "b230138d-cd5f-4529-ac89-ee1ca49d4ecc",
+  "title": "황민현",
+  "owner": "황민현",
+  "ownerAvatar": null,
+  "ownerInfo": {
+    "phone": "010-1995-0809"
+  },
+  "theme": "light",
+  "wallpaper": null,
+  "wallpaperStyle": "aurora",
+  "clock": "00:44",
+  "date": "2026-10-19",
+  "clockMode": "current",
+  "lockTextTone": "light",
+  "lockWallpaperTransform": {
+    "x": 0,
+    "y": 50,
+    "scale": 1
+  },
+  "homeWallpaperTransform": {
+    "x": 0,
+    "y": 50,
+    "scale": 1
+  },
+  "lockWallpaperEffects": {
+    "blur": 0,
+    "opacity": 1
+  },
+  "homeWallpaperEffects": {
+    "blur": 22,
+    "opacity": 1
+  },
+  "lockCode": "0527",
+  "lockWallpaper": "assets/1.jpg",
+  "homeWallpaper": "assets/2.jpg",
+  "lockWallpaperStyle": "aurora",
+  "homeWallpaperStyle": "aurora",
+  "showApps": {
+    "messages": true,
+    "contacts": true,
+    "photos": true,
+    "notes": true,
+    "music": true,
+    "calendar": true,
+    "diary": true,
+    "scrapbook": true,
+    "sns": true,
+    "calls": true
+  },
+  "appLayout": {
+    "home": [
+      "sns",
+      "music",
+      "diary",
+      "calendar",
+      "scrapbook",
+      "notes",
+      "photos",
+      "calls"
+    ],
+    "dock": [
+      "messages",
+      "contacts"
+    ]
+  },
+  "homeSlots": {
+    "photos": 16,
+    "notes": 13,
+    "music": 9,
+    "calendar": 11,
+    "diary": 10,
+    "scrapbook": 12,
+    "sns": 8,
+    "calls": 17
+  },
+  "widgets": [
+    {
+      "id": "6d2b751b-fd60-4264-baf9-e1c90e27efd7",
+      "type": "music",
+      "size": "4x2",
+      "slot": 0,
+      "trackId": "dce4766c-f6e7-4478-9937-9286d9ca5975",
+      "style": "player"
+    },
+    {
+      "id": "f5559245-7936-4c0f-b0a2-cc975fb85bd4",
+      "type": "dday",
+      "size": "2x2",
+      "slot": 14,
+      "title": ".",
+      "date": "2017-06-16",
+      "countStart": false,
+      "src": null,
+      "style": "photo"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "c5189b90-893f-471b-89fc-f047a8f07856",
+      "name": "강다니엘",
+      "subtitle": "",
+      "phone": "010-0000-1210",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "689e8ee9-b708-4d74-8b19-292397173107",
+      "name": "라이관린",
+      "subtitle": "",
+      "phone": "010-0000-0923",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "52e74f94-efec-4678-994a-76362fe34f89",
+      "name": "박우진",
+      "subtitle": "",
+      "phone": "010-0000-1102",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "20e853c0-7b85-4282-bad6-568f54778489",
+      "name": "박지훈",
+      "subtitle": "",
+      "phone": "010-0000-0529",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "008170e7-ed6d-4f0d-bcb2-040947c265fa",
+      "name": "배진영",
+      "subtitle": "",
+      "phone": "010-0000-0510",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "1d87f0c5-4c62-4f9b-80b8-41b985753595",
+      "name": "아빠",
+      "subtitle": "",
+      "phone": "010-2222-3333",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "874b16e4-fae4-42c0-9beb-58862e7d62ca",
+      "name": "엄마",
+      "subtitle": "",
+      "phone": "010-1111-2222",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "bf2cda23-261b-42d7-8fa8-be1538eda0d0",
+      "name": "옹성우",
+      "subtitle": "",
+      "phone": "010-0000-0825",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "5b005dea-cc89-4ced-909c-5026af49ee51",
+      "name": "윤지성 형",
+      "subtitle": "",
+      "phone": "010-0000-0308",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "bc0c6416-e65c-4a28-9ee0-fa39980f6746",
+      "name": "이대휘",
+      "subtitle": "",
+      "phone": "010-0000-0129",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "346563ad-accb-409c-9281-baf2f59a1640",
+      "name": "재환이",
+      "subtitle": "",
+      "phone": "010-1996-0527",
+      "favorite": false,
+      "avatar": null
+    },
+    {
+      "id": "27dbdc13-a590-4a3a-9236-d768743d50d2",
+      "name": "하성운 형",
+      "subtitle": "",
+      "phone": "010-0000-0322",
+      "favorite": false,
+      "avatar": null
+    }
+  ],
+  "threads": [
+    {
+      "id": "8dbafa65-b720-4715-b317-b6aaba170528",
+      "contactId": "346563ad-accb-409c-9281-baf2f59a1640",
+      "messages": [
+        {
+          "id": "6c7d15be-6893-46cd-99e1-644483521bad",
+          "kind": "date",
+          "text": "10월 19일 월요일",
+          "dateParts": {
+            "mode": "calendar",
+            "month": 10,
+            "day": 19,
+            "weekday": 1
+          }
+        }
+      ],
+      "draft": "",
+      "timelineVersion": 1
+    }
+  ],
+  "photos": [
+    {
+      "id": "c1e30d0e-9fdf-44bd-82ed-63f193f92472",
+      "src": "assets/3.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "a44793f4-c6ab-4305-afed-fad8ba8b0844",
+      "src": "assets/4.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "4be78352-68bf-42e7-b729-6be91683afd8",
+      "src": "assets/5.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "791df75c-0864-4069-89d3-27cbcc6f35f5",
+      "src": "assets/6.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "e9b7ba94-ad3c-4db9-a6ab-7c6315973040",
+      "src": "assets/7.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "c5abb871-b16c-4986-8f47-965b09f198db",
+      "src": "assets/8.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "8776a44c-3f73-4b5d-90a3-48846164a84a",
+      "src": "assets/9.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "47f5b333-d41e-4c26-a451-e82e8d5de27d",
+      "src": "assets/10.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "eb1a3d62-cbb1-4eca-b989-a14941c3e62f",
+      "src": "assets/11.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "1c964b83-2730-49b0-aa8c-5e7b51bc8067",
+      "src": "assets/12.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "e0d8630e-3c37-42c7-bb81-c67702a2b6bd",
+      "src": "assets/13.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "06380787-0581-45a8-a616-91d70f90a7d4",
+      "src": "assets/14.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "7647e3fb-246c-4d92-9042-7cd11a3b5e20",
+      "src": "assets/15.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "4219e8da-8c19-4d0e-9741-3fb0df7f7b28",
+      "src": "assets/16.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "66dabf08-1479-43aa-ac66-03751ce16066",
+      "src": "assets/17.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "eab0fe70-6fdc-4898-8473-e74a52c84446",
+      "src": "assets/18.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "eee67065-1e0e-4270-9214-f77b3871baca",
+      "src": "assets/19.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "a6e3f5fe-de06-4b9e-b815-1c2a7d8f0f94",
+      "src": "assets/20.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "46e800a9-7c50-41f3-ba85-8ccbc5737a07",
+      "src": "assets/21.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "2bb7f54a-509a-42b0-9300-d21eb72ee6cb",
+      "src": "assets/22.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "0df31d8c-0400-4b2f-87ba-0a11eddb5339",
+      "src": "assets/23.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    },
+    {
+      "id": "3d7fe7a9-28b3-42e1-93ed-514f2051eef2",
+      "src": "assets/24.jpg",
+      "caption": "",
+      "date": "2026-10-19",
+      "favorite": false
+    }
+  ],
+  "notes": [
+    {
+      "id": "03e1f9a9-e5d3-48b2-badf-cca91ec479e2",
+      "title": "",
+      "body": "",
+      "pinned": false,
+      "updated": "2026-10-20"
+    }
+  ],
+  "music": {
+    "tracks": [
+      {
+        "id": "dce4766c-f6e7-4478-9937-9286d9ca5975",
+        "title": " Sparkle",
+        "artist": "Radwimps",
+        "cover": "assets/25.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=a2GujJZfXpg"
+      },
+      {
+        "id": "f1a4c767-8334-4c7f-9006-a6f588d1ba5c",
+        "title": "안아줘",
+        "artist": "정준일",
+        "cover": "assets/26.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=YPBeItQC2Cw"
+      },
+      {
+        "id": "26a7b42b-906a-436e-a206-b99c9e558b66",
+        "title": "좋은 밤 좋은 꿈",
+        "artist": "너드커넥션",
+        "cover": "assets/27.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=mTonMiKVZRw"
+      },
+      {
+        "id": "0e4a1b6b-a16c-498e-94a8-e1a42fdaf551",
+        "title": "차마…",
+        "artist": "성시경",
+        "cover": "assets/28.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=leyIfb-aY9c"
+      },
+      {
+        "id": "915e78ed-88d4-47d9-b7c0-8ea706700e55",
+        "title": "기억을 걷는 시간",
+        "artist": "넬",
+        "cover": "assets/29.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=0bTCIbyvBBc"
+      },
+      {
+        "id": "6435c3c3-2ad0-4821-8db6-cdb98d895684",
+        "title": "어떻게 이별까지 사랑하겠어 널 사랑하는 거지",
+        "artist": "악동뮤지션",
+        "cover": "assets/30.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=__WOmFwDJI4"
+      },
+      {
+        "id": "b04c0a1d-cccf-46ba-8556-34845541d2a1",
+        "title": "널 위한 내 노랜 끝이 나지 않아",
+        "artist": "김재환",
+        "cover": "assets/31.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=x5oVAE7JNzk"
+      },
+      {
+        "id": "beb172e4-1dbe-4449-966f-b01d975d4320",
+        "title": "I Love You",
+        "artist": "김재환",
+        "cover": "assets/32.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=NUm0IKBA1-Q"
+      },
+      {
+        "id": "da907f34-95dc-4ae7-bc76-4f64aad77ce5",
+        "title": "그 시절 우리는",
+        "artist": "김재환",
+        "cover": "assets/33.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=K5sr5X2pqvw"
+      },
+      {
+        "id": "a305fd7a-ffd7-4833-b5d3-fe58237f9d49",
+        "title": "별의 목소리",
+        "artist": "김재환",
+        "cover": "assets/34.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=4Nem87aEnhc"
+      },
+      {
+        "id": "c6d59c1f-cd8f-4985-b589-e0cfdb8418ed",
+        "title": "그렇게 널",
+        "artist": "김재환",
+        "cover": "assets/35.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=uwGocIm8AFA"
+      },
+      {
+        "id": "c7703f8d-74d0-4328-8fdb-b92c5799416e",
+        "title": "사랑이라 부를지도 모를 거야",
+        "artist": "김재환",
+        "cover": "assets/36.png",
+        "audio": null,
+        "youtubeUrl": "https://www.youtube.com/watch?v=U2GPFUaulWM"
+      }
+    ],
+    "playlists": [
+      {
+        "id": "055e1bc9-1555-4cc1-b5a1-a98088269f99",
+        "title": "Playlist",
+        "description": "",
+        "cover": null,
+        "trackIds": [
+          "dce4766c-f6e7-4478-9937-9286d9ca5975",
+          "f1a4c767-8334-4c7f-9006-a6f588d1ba5c",
+          "26a7b42b-906a-436e-a206-b99c9e558b66",
+          "0e4a1b6b-a16c-498e-94a8-e1a42fdaf551",
+          "915e78ed-88d4-47d9-b7c0-8ea706700e55",
+          "6435c3c3-2ad0-4821-8db6-cdb98d895684"
+        ]
+      },
+      {
+        "id": "f4441a68-101e-4432-9261-a0e2dfa1b41f",
+        "title": ".",
+        "description": "",
+        "cover": null,
+        "trackIds": [
+          "beb172e4-1dbe-4449-966f-b01d975d4320",
+          "da907f34-95dc-4ae7-bc76-4f64aad77ce5",
+          "a305fd7a-ffd7-4833-b5d3-fe58237f9d49",
+          "c6d59c1f-cd8f-4985-b589-e0cfdb8418ed",
+          "c7703f8d-74d0-4328-8fdb-b92c5799416e"
+        ]
+      }
+    ]
+  },
+  "scrapbook": {
+    "boards": [
+      {
+        "id": "9aba6004-f345-4280-aff6-979723f5de58",
+        "title": "새 보드",
+        "background": "#FFFFFF",
+        "items": []
+      }
+    ]
+  },
+  "sns": {
+    "profile": {
+      "name": ".",
+      "handle": "809.secret",
+      "bio": "",
+      "link": "",
+      "followers": "0",
+      "following": "2",
+      "avatar": null,
+      "banner": null
+    },
+    "accounts": [
+      {
+        "id": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "name": "김재환KIM JAE HWAN",
+        "handle": "KJH_officaltwt",
+        "bio": "김재환 Single Album 'Love, From Here'\n2026.10.07 (WED) 6PM (KST)\n\n2026 김재환 콘서트 '여백:餘白’\n2026.10.31 (SAT) 6PM - 11.01 (SUN) 5PM",
+        "avatar": "assets/37.jpg",
+        "banner": "assets/38.jpg",
+        "followers": "240,527",
+        "following": "2"
+      },
+      {
+        "id": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "name": "황민현 (HWANG MIN HYUN)",
+        "handle": "MINHYUN_PLEDIS",
+        "bio": "#황민현 #HWANGMINHYUN Official X(Twitter)",
+        "avatar": "assets/39.jpg",
+        "banner": "assets/40.jpg",
+        "followers": "150,809",
+        "following": "2"
+      }
+    ],
+    "posts": [
+      {
+        "id": "ccf76915-3a5e-4f24-94d5-ecf0e701ba8e",
+        "authorId": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "text": "황민현 (HWANG MIN HYUN) 'OUR' Official MV \n\n▶️ youtu.be/vGL5tyee4Xw \n\n#황민현 #HWANGMINHYUN\n#OUR",
+        "date": "2026-10-07",
+        "images": [
+          "assets/41.jpg"
+        ],
+        "time": "18:00",
+        "likes": "4850",
+        "reposts": "1942",
+        "replyCount": "9",
+        "pinned": true
+      },
+      {
+        "id": "0c139cb4-3458-41be-bea9-3f7ad21c56dd",
+        "authorId": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
+        "date": "2026-10-07",
+        "images": [
+          "assets/42.jpg"
+        ],
+        "time": "18:00",
+        "likes": "1942",
+        "reposts": "932",
+        "replyCount": "8",
+        "pinned": true
+      },
+      {
+        "id": "3afb7458-95f5-4acd-9bd1-d8a00fc23d04",
+        "authorId": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "text": "[COVER] 황민현 (HWANG MIN HYUN) - Sparkle (원곡 : Radwimps)\n\n▶️ youtu.be/o_kjmWr41hM\n\n#황민현 #HWANGMINHYUN #Sparkle",
+        "date": "2026-08-09",
+        "images": [
+          "assets/43.jpg"
+        ],
+        "time": "19:00",
+        "likes": "4809",
+        "reposts": "2840",
+        "replyCount": "23"
+      },
+      {
+        "id": "91d5fd19-35a8-4557-abb9-e2fef792f9f4",
+        "authorId": "55d75e6e-db30-46fa-a244-cf79d7ec426e",
+        "text": "[#Moment_H] 📸\n260428 Mnet WANNA ONE GO : Back to Base\n\n#황민현 #HWANGMINHYUN",
+        "date": "2026-04-28",
+        "images": [
+          "assets/44.jpg",
+          "assets/45.jpg"
+        ],
+        "time": "21:20",
+        "likes": "7493",
+        "reposts": "2304",
+        "replyCount": "12"
+      },
+      {
+        "id": "9c6f594b-bdf3-445a-ac4e-0d35d65aee53",
+        "authorId": "94b30aa6-ba34-4840-9750-a99abe80a00b",
+        "text": "김재환 Single Album [Love, From Here] \n‘사랑이라 부를지도 모를 거야 (Call It Love)’ M/V \n\n📍 youtu.be/U2GPFUaulWM\n\n#김재환 #KIMJAEHWAN \n#Love_From_Here\n#사랑이라부를지도모를거야 #CallItLove",
+        "date": "2026-04-22",
+        "images": [
+          "assets/46.jpg"
+        ],
+        "time": "00:00",
+        "likes": "1598",
+        "reposts": "1257",
+        "replyCount": "11",
+        "replies": [
+          {
+            "id": "530dd55b-7a02-4849-98b5-eda5aa9d485e",
+            "authorId": "guest",
+            "author": {
+              "name": ".",
+              "handle": "809.secret"
+            },
+            "text": "재환아…🫶 훨훨 날아오르자",
+            "date": "2026-04-22"
+          }
+        ]
+      }
+    ]
+  },
+  "calls": [],
+  "updatedAt": "2026-10-20T06:22:20.592Z"
+}
